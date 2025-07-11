@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GamersConnectByDeskyy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to GamersConnectByDeskyy</h1>
+    <p>Your portal to connect, trade, and squad up across all games!</p>
+  </header>
+
+  <main>
+    <section class="chat-box">
+      <h2>Community Chat</h2>
+      <div class="messages">
+        <p><strong>Nirmal:</strong> Who’s farming tonight?</p>
+        <p><strong>SkyLancer:</strong> I’m grinding mastery on Mirage 👀</p>
+      </div>
+      <input type="text" placeholder="Type your message..." />
+      <button>Send</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 GamersConnectByDeskyy | Powered by Deskyy</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
