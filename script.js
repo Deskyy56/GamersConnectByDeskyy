@@ -10,5 +10,8 @@ button.addEventListener('click', () => {
     messages.appendChild(msg);
     input.value = '';
     messages.scrollTop = messages.scrollHeight;
+    if (isOwner) {
+  // Add delete button to messages
+}
   }
 });
